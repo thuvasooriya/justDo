@@ -1,6 +1,6 @@
 # Hola!
 
-[\*_justDo_](https://mastarstrange.github.io/justDo/) is a small effort on a productivity app with JS. Hope I improve upon this in the future. ✌🏽
+[**justDo**](https://mastarstrange.github.io/justDo/) is a small effort on a productivity app with JS. Hope I improve upon this in the future. ✌🏽
 
 Made with lots of 🖤 by [mastarstrange](https://mastarstrange.github.io)
 
